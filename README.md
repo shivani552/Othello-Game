@@ -16,6 +16,6 @@
 </br>
 <h2>Future Enhancements</h2>
 🔹 AI Opponent (Single-player mode)</br>
-🔹 Save & Load Game Feature </br>
+🔹 Save & Load Game Feature</br>
 🔹 Custom Themes</br>
 </html>
