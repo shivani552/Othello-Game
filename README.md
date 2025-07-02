@@ -6,7 +6,7 @@
 ✅ Interactive GUI – Built with Tkinter</br>
 ✅ Sound Effects – Using Pygame for an immersive experience</br>
 ✅ Multi-Window Interface – Includes menu, game board, and results screen</br>
-✅ Two-Player Mode – Play against a friend</br>
+✅ Two-Player Mode – Play against a friend </br>
 ✅ Valid Move Highlighting – Helps players make strategic decisions</br>
 </hr>
 <h2>Tech Stack</h2>
